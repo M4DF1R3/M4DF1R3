@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, my name is Kevin and I am a Software Engineer Student at the University of Alberta.
+
+- 🔭 I’m currently working on improving my personal portfolio
+- 🌱 I’m currently learning TensorFlow 2.0 and creating advanced models
+- 📫 How to reach me: Kevin Qian on LinkedIn
+- 😄 Pronouns: He/Him
 
 <!--
 **M4DF1R3/M4DF1R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
