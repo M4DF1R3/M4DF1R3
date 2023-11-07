@@ -1,4 +1,4 @@
-<h1>Hi there 👋, my name is Kevin and I am a Software Engineer Student at the University of Alberta.</h1>
+<h1>Hi there 👋, my name is Kevin (Cheng) and I am a Software Engineer Student at the University of Alberta.</h1>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
