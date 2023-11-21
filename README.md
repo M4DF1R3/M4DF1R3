@@ -22,7 +22,5 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/static/v1?style=flat-square&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
-- 🔭 I’m currently working on improving my personal portfolio
-- 🌱 I’m currently learning TensorFlow 2.0 and creating advanced models
-- 📫 How to reach me: Kevin Qian on LinkedIn
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on improving my personal portfolio and school assignments.
+- 🌱 I’m currently learning creating advanced models TensorFlow 2.0 and learning PyTorch
