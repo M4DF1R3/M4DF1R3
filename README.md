@@ -4,5 +4,5 @@
 Some of my projects you should check out:
 - [Using ML to Predict Drug Effectiveness for Cancer Cell Lines](https://github.com/parshva-s/cancer-drug-sensitivity-research)
 - [Asteroids Bot using Fuzzy Systems and Genetic Algorithms](https://github.com/M4DF1R3/KesslerGameFuzzy)
-- [Person Portfolio](https://cq4-portfolio.vercel.app/)
+- [Personal Portfolio](https://cq4-portfolio.vercel.app/)
 
